@@ -6,9 +6,9 @@ class API
 {
     /* 	api id */
 
-    protected $apiID           ='940';
+    protected $apiID           ='';
     /* 	api ключ */
-    protected $apiPass         ='eHzuSKGmQiP-nliCc8icjMlHlJE2Rb4V';
+    protected $apiPass         ='';
     /* 	контрагенты */
     protected $companyes       =array ();
     /* 	контактные лица */
